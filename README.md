@@ -1,6 +1,6 @@
 # pipergram sarvesh41
 Pipergram - Social Media Application
-Pipergram is a social media application built using the MERN (MongoDB, Express, React, Node.js) stack. It allows users to create an account, share their thoughts and images with others, follow other users, like and comment on posts, and send private messages.
+Pipergram is a social media application built using the MERN (MongoDB, Express, React, Node.js) stack. It allows users to create an account, share their thoughts and images with others, follow other users and like on posts.
 
 Features
 Some of the key features of Pipergram include:
